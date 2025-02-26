@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+}
+.circle-box {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  border-radius: 50%;
+  /* transition: width 1s ease-in, height 1s ease-in; */
+}
